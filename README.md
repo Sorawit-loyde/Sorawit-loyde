@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tee</h1>
 <h3 align="center">I'm undergraduate software developer</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
 
 - 📫 How to reach me **teekubkub@gmail.com**
 
