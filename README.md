@@ -1,17 +1,55 @@
-<h1 align="center">Hi 👋, I'm Tee</h1>
-<h3 align="center">I'm undergraduate software developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
+# 👋 Hello, I'm Sorawit Loeyvanicharoen
 
-- 📫 How to reach me **teekubkub@gmail.com**
+[cite_start]I am a final-year **Engineering student** at **King Mongkut's Institute of Technology Ladkrabang**[cite: 2, 4]. [cite_start]I specialize in bridging the gap between hardware and software, with a strong focus on **Python-based data validation**, **mobile development**, and **embedded systems**[cite: 20, 27, 33].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sorawit-loeyvanicharoen-6048082b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sorawit loeyvanicharoen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sorawit.loeyvanicharoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sorawit loeyvanicharoen" height="30" width="40" /></a>
-<a href="https://instagram.com/sorawit_loyde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorawit_loyde" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🚀 Technical Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorawit-loyde&show_icons=true&locale=en&layout=compact" alt="sorawit-loyde" /></p>
+* [cite_start]**Programming:** Python (Pandas, NumPy, Scikit-learn), SQL, Flutter (Dart), C++, JavaScript[cite: 49].
+* [cite_start]**Tools & Platforms:** Docker, Google Cloud, GitHub, VS Code, Postman (APIs), NotebookLM[cite: 48].
+* [cite_start]**Languages:** Thai (Native), English (B2 - IELTS 6.0)[cite: 49].
+
+---
+
+### 🛠️ Key Projects
+
+#### **Decubitus Mobile Application** | [cite_start]*Flutter & SQL* [cite: 27]
+* [cite_start]Engineered a data layer with local caching and REST API integration to achieve **100% offline functionality**[cite: 30].
+* [cite_start]Optimized data retrieval, resulting in a **30% reduction in app latency** through advanced SQL indexing[cite: 31].
+
+#### **Steering Wheel Controller** | [cite_start]*C++ & Nucleo-F767ZI* [cite: 33]
+* [cite_start]Implemented OOP in C++ to process raw sensor data into game-engine logic with **100% hardware responsiveness**[cite: 35].
+* [cite_start]Designed logic for microcontrollers to translate physical inputs into digital throttle signals[cite: 36].
+
+#### [cite_start]**FPGA Cars Parking System** [cite: 38]
+* [cite_start]Built an automated entry/exit gate system using **FPGA and sensors** for real-time detection[cite: 39, 40].
+
+---
+
+### 💼 Work Experience
+
+* **Software Engineering Trainee** | [cite_start]Fusion Advantec Co., LTD. [cite: 15, 16]
+    * [cite_start]Improved code quality and data integrity by developing **Python-based unit tests** and validation scripts[cite: 20].
+    * [cite_start]Managed **Docker containers** and Git version control for automated workflows[cite: 21].
+* **Electrical Engineering (Part-time)** | [cite_start]Rite-Ex Co., Ltd. [cite: 8, 9]
+    * [cite_start]Configured server infrastructure and managed network cable routing[cite: 14].
+
+---
+
+### 🎓 Education
+
+* [cite_start]**B.Eng. in Engineering**, King Mongkut's Institute of Technology Ladkrabang [cite: 4, 5]
+    * *Major GPA: 3.01* | [cite_start]*Expected Graduation: March 2025* [cite: 5, 11]
+* [cite_start]**High School Diploma**, Bodindecha (Sing Singhaseni) School [cite: 6]
+
+---
+
+### 📫 Connect with Me
+
+* [cite_start]📍 Bangkok, Thailand [cite: 3]
+* [cite_start]📧 [teekubkub@gmail.com](mailto:teekubkub@gmail.com) [cite: 3]
+* [cite_start]📞 +66 917813196 [cite: 3]
+
+---
+*Generated based on my professional experience in Data Science and Software Engineering.*
