@@ -1,55 +1,22 @@
-# 👋 Hello, I'm Sorawit Loeyvanicharoen
+<h1 align="center">Hi 👋, I'm Sorawit Loeyvanicharoen</h1>
+<h3 align="center">Fresh Graduate in Computer Engineering @ KMITL | Aspiring Software & Data Engineer 🚀</h3>
 
-[cite_start]I am a final-year **Engineering student** at **King Mongkut's Institute of Technology Ladkrabang**[cite: 2, 4]. [cite_start]I specialize in bridging the gap between hardware and software, with a strong focus on **Python-based data validation**, **mobile development**, and **embedded systems**[cite: 20, 27, 33].
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorawit-loyde" alt="sorawit-loyde" /></a> </p>
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Sorawit-loyde](https://github.com/Sorawit-loyde)
 
-### 🚀 Technical Skills
+- 📫 How to reach me **teekubkub@gmail.com**
 
-* [cite_start]**Programming:** Python (Pandas, NumPy, Scikit-learn), SQL, Flutter (Dart), C++, JavaScript[cite: 49].
-* [cite_start]**Tools & Platforms:** Docker, Google Cloud, GitHub, VS Code, Postman (APIs), NotebookLM[cite: 48].
-* [cite_start]**Languages:** Thai (Native), English (B2 - IELTS 6.0)[cite: 49].
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sorawit-loeyvanicharoen-6048082b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sorawit-loeyvanicharoen-6048082b9" height="30" width="40" /></a>
+<a href="https://fb.com/sorawit.loeyvanicharoen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sorawit.loeyvanicharoen" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sorawit_loyde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sorawit_loyde/" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🛠️ Key Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorawit-loyde&show_icons=true&locale=en&layout=compact" alt="sorawit-loyde" /></p>
 
-#### **Decubitus Mobile Application** | [cite_start]*Flutter & SQL* [cite: 27]
-* [cite_start]Engineered a data layer with local caching and REST API integration to achieve **100% offline functionality**[cite: 30].
-* [cite_start]Optimized data retrieval, resulting in a **30% reduction in app latency** through advanced SQL indexing[cite: 31].
-
-#### **Steering Wheel Controller** | [cite_start]*C++ & Nucleo-F767ZI* [cite: 33]
-* [cite_start]Implemented OOP in C++ to process raw sensor data into game-engine logic with **100% hardware responsiveness**[cite: 35].
-* [cite_start]Designed logic for microcontrollers to translate physical inputs into digital throttle signals[cite: 36].
-
-#### [cite_start]**FPGA Cars Parking System** [cite: 38]
-* [cite_start]Built an automated entry/exit gate system using **FPGA and sensors** for real-time detection[cite: 39, 40].
-
----
-
-### 💼 Work Experience
-
-* **Software Engineering Trainee** | [cite_start]Fusion Advantec Co., LTD. [cite: 15, 16]
-    * [cite_start]Improved code quality and data integrity by developing **Python-based unit tests** and validation scripts[cite: 20].
-    * [cite_start]Managed **Docker containers** and Git version control for automated workflows[cite: 21].
-* **Electrical Engineering (Part-time)** | [cite_start]Rite-Ex Co., Ltd. [cite: 8, 9]
-    * [cite_start]Configured server infrastructure and managed network cable routing[cite: 14].
-
----
-
-### 🎓 Education
-
-* [cite_start]**B.Eng. in Engineering**, King Mongkut's Institute of Technology Ladkrabang [cite: 4, 5]
-    * *Major GPA: 3.01* | [cite_start]*Expected Graduation: March 2025* [cite: 5, 11]
-* [cite_start]**High School Diploma**, Bodindecha (Sing Singhaseni) School [cite: 6]
-
----
-
-### 📫 Connect with Me
-
-* [cite_start]📍 Bangkok, Thailand [cite: 3]
-* [cite_start]📧 [teekubkub@gmail.com](mailto:teekubkub@gmail.com) [cite: 3]
-* [cite_start]📞 +66 917813196 [cite: 3]
-
----
-*Generated based on my professional experience in Data Science and Software Engineering.*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorawit-loyde&show_icons=true&locale=en" alt="sorawit-loyde" /></p>
